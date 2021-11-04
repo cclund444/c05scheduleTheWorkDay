@@ -1,7 +1,7 @@
 # Work Day Scheduler Starter Code
 
 Purpose:
-An online application that keeps and displays your weekly scheule. Has the abilities to update, view and change schedule. There will be color differences for past, present and future appointments. Schedule displayed on a webpage.
+An online application that keeps and displays your weekly schedule. Has the abilities to update, view and change schedule. There will be color differences for past, present and future appointments. Schedule displayed on a webpage.
 
 
 Built with:
@@ -20,6 +20,8 @@ Caleb Lund
 calebcoylund444@gmail.com
 https://github.com/cclund444
 
+image:
+<img src="C:\Users\caleb\OneDrive\desktop\projects\challenges\c05workDayScheduler\exampleShot.png" />
 
 Side Setup notes:
 
